@@ -53,7 +53,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://phoenox.github.io/multifate"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
