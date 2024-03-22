@@ -1,0 +1,32 @@
+tabs:
+  home: Home
+  dice: 3d6
+  license: License
+
+search:
+  hint: search
+  cancel: Cancel
+  no_results: Oops! No results found.
+
+panel:
+  toc: Contents
+
+copyright:
+  license:
+    template: This post is licensed under :LICENSE_NAME by the author.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  brief: Some rights reserved.
+  verbose: >-
+    The content of this site is licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+
+meta: Using the :THEME theme for :PLATFORM.
+
+not_found:
+  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+
+notification:
+  update_found: A new version of content is available.
+  update: Update
