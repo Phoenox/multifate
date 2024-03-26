@@ -6,7 +6,9 @@ title: 3 D6
 ## Making checks
 
 Making a check works the same as in Fate Core:
-You roll your dice, add them together and add your bonus.
+You roll your dice, add them together and add your bonus.  
+Of course, the target number has to be adjusted.
+So if you'd need a +2 in Fate Core, you'd need a 12 in MultiFate (just add 10).
 
 However, the **bonus** you get from invoking aspects changes:
 Where Fate Core gives you a +2, MultiFATE gives you a whopping +4!
